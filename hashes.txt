@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Can We Just Stay
+
+This log tracks the cryptographic history and versioning for the song **Can We Just Stay** (can-we-just-stay).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-27T16:18:59.958514 | `v1` | `e9953c69bbe14c813504a54e23df1500d55a2f1e28b67e94ae86e5dd80a8ca49` | `21f90170aa8b09017e9d6e99726b97e3d76378fd071210a38ce6047f83f79729` | `2026-05-27_can-we-just-stay-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

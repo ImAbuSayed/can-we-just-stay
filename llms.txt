@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/can-we-just-stay/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Can We Just Stay](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/can-we-just-stay/) |
+| **Get License** | [Commercial Licensing for Can We Just Stay](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/can-we-just-stay/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -107,7 +107,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e9953c69bbe14c813504a54e23df1500d55a2f1e28b67e94ae86e5dd80a8ca49` |
 | **Timestamp** | May 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

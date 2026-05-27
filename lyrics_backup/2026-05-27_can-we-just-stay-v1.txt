@@ -1,0 +1,11 @@
+Title: Can We Just Stay
+Clean Hash: e9953c69bbe14c813504a54e23df1500d55a2f1e28b67e94ae86e5dd80a8ca49
+Raw Hash: 21f90170aa8b09017e9d6e99726b97e3d76378fd071210a38ce6047f83f79729
+Date: 2026-05-27T16:18:59.958514
+Version: 1
+----------------------------------------
+[RAW LYRICS]
+[Jules AI will generate raw lyrics here]
+--------------------
+[CLEAN LYRICS]
+[Clean lyric will be pushed here]
